@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(46, 15, 74);
+    color: rgb(155, 28, 54);
+}
+.jumbotron{
+    background-color: rgb(113, 111, 102);
+}
+h1:hover{
+    
+    color: rgb(211, 77, 104);
+}
